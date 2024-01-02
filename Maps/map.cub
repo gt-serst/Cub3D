@@ -1,0 +1,12 @@
+NO ./Sprites/north.xpm
+SO ./Sprites/south.xpm
+WE ./Sprites/west.xpm
+EA ./Sprites/east.xpm
+
+F 255,100,255
+C 255,100,0
+
+1111111
+100N001
+1111111
+
